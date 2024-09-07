@@ -20,8 +20,6 @@ Permanent effect of Sacrificial Twig; it also works as a counter to the rune los
 Navigate to the "ERR\mod" folder, where you will find a file with the same name: replace it.
 
 ----------
-### _Optional_:
-Separate .csv files for katanas and straig
 
 # Scabbards On Back
 
@@ -30,7 +28,9 @@ Scabbards of katanas and straight swords on your back, instead of by your side.
 ### Installation
 
 Navigate to the "ERR\mod" folder, where you will find a file with the same name: replace it.
-ht swords are also provided, so that you can do the merging by yourself with Smithbox (https://github.com/vawser/Smithbox):
+
+### _Optional_:
+Separate .csv files for katanas and straight swords are also provided, so that you can do the merging by yourself with Smithbox (https://github.com/vawser/Smithbox):
 1) Open the EquipParamWeapon category
 2) At the top: Data > Import CSV > Specific Field > absorpParamId
 3) A window opens up, paste the entire content of the .csv file/files there and click Submit
