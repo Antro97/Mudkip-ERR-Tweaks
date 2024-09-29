@@ -1,7 +1,7 @@
 # No More Red Particles
 Disables the red particles floating around when the Erdtree is burnt for the second time.
 - Original mod by clevererraptor6 (https://www.nexusmods.com/eldenring/mods/1559)
-- All credit goes to Clever for providing the instructions on how to do this by oneself and to @unko_deso (Discord) for clearing my doubts and providing further help.
+- All credit goes to Clever for providing the instructions on how to do this by oneself (https://www.nexusmods.com/eldenring/mods/1559?tab=files&file_id=6074) and to @unko_deso (Discord) for clearing my doubts and providing further help.
 
 ### Installation
 Navigate to the "ERR\mod\sfx" folder, where you will find a file with the same name: replace it.
