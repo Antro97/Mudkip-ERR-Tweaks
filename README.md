@@ -14,6 +14,7 @@ Permanent effect of Sacrificial Twig; it also works as a counter to the rune los
 
 ### Installation
 Extract the archive in the ERR folder, replace the file when asked to.
+*Not compatible with Scabbards on Back, unless you merge the "regulation.bin" file by yourself using Smithbox.*
 
 ### _Changed values_
 - ActionButtonParam
@@ -34,6 +35,7 @@ Scabbards of katanas and straight swords on your back, instead of by your side.
 ### Installation
 Extract the archive in the ERR folder, replace the file when asked to.
 - The .csv files are not needed, they are just for merging if you need to.
+*Not compatible with Permanent Sacrificial Twig, unless you merge the "regulation.bin" file by yourself using Smithbox.*
 
 ### _Changed values_
 Check the provided .csv files for katanas and straight swords.
