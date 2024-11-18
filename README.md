@@ -8,7 +8,7 @@ Extract the archive in the ERR folder, replace the file when asked to.
 
 ----------
 
-# Permanent Sacrifical Twig
+# Permanent Sacrificial Twig
 Permanent effect of Sacrificial Twig; it also works as a counter to the rune loss from Death Blight (the effect spawns the lost runes on the ground and you can immediately retrieve them upon respawning).
 - If you have the Erd Tools mod with "pickup_lost_runes" set to 1, the retrieval is automatic.
 
