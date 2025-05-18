@@ -1,4 +1,6 @@
 # No More Red Particles
+
+## Until further notice, the "No More Red Particles" tweak will not be uploaded since it crashes the game at startup.
 Disables the red particles floating around when the Erdtree is burnt for the second time.
 - Original mod by clevererraptor6 (https://www.nexusmods.com/eldenring/mods/1559)
 - All credit goes to Clever for providing the instructions on how to do this by oneself (https://www.nexusmods.com/eldenring/mods/1559?tab=files&file_id=6074) and to @unko_deso (Discord) for clearing my doubts and providing further help.
